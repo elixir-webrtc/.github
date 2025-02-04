@@ -12,6 +12,7 @@ To get started with Elixir WebRTC, check out:
 * [simple examples](https://github.com/elixir-webrtc/ex_webrtc/tree/master/examples) of `ex_webrtc` usage
 * [example applications](https://github.com/elixir-webrtc/apps) built on top of `ex_webrtc`
 * the [discussions page](https://github.com/orgs/elixir-webrtc/discussions) to ask questions, share your ideas, and discuss the project
+* the [roadmap](https://github.com/elixir-webrtc/ex_webrtc/issues/28) to see what we are working on and how you can contribute
 
 ## Credits
 
